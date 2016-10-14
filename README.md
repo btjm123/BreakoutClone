@@ -1,5 +1,5 @@
 # BreakoutClone
-This is a simple breakout game that serves as a companion to my video titled'Make a Breakout Game (Swift 3:SpriteKit)' on my Youtube channel.
+This is a simple breakout game that serves as a companion to my video on my Youtube Channel (BR Studio)
 
 <b>My Youtube channel(BR Studio):</b> https://www.youtube.com/channel/UClmRwdRb2PC6D3gJM-fpYUw
 
